@@ -2,28 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on siriC&#39;s Blog</title>
-    <link>https://sirichiu.github.io//categories/</link>
+    <link>https://sirichiu.github.io/categories/</link>
     <description>Recent content in Categories on siriC&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>sirichiu8632@gmail.com (C. Xi Rui)</managingEditor>
     <webMaster>sirichiu8632@gmail.com (C. Xi Rui)</webMaster>
-    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sirichiu.github.io//categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sirichiu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>研究所論文</title>
+      <link>https://sirichiu.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80%E8%AB%96%E6%96%87/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <author>sirichiu8632@gmail.com (C. Xi Rui)</author>
+      <guid>https://sirichiu.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80%E8%AB%96%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>研究生專題</title>
-      <link>https://sirichiu.github.io//categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%88%E9%A1%8C/</link>
+      <link>https://sirichiu.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%88%E9%A1%8C/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
       <author>sirichiu8632@gmail.com (C. Xi Rui)</author>
-      <guid>https://sirichiu.github.io//categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%88%E9%A1%8C/</guid>
+      <guid>https://sirichiu.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%88%E9%A1%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>大學生專題</title>
-      <link>https://sirichiu.github.io//categories/%E5%A4%A7%E5%AD%B8%E7%94%9F%E5%B0%88%E9%A1%8C/</link>
+      <link>https://sirichiu.github.io/categories/%E5%A4%A7%E5%AD%B8%E7%94%9F%E5%B0%88%E9%A1%8C/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       <author>sirichiu8632@gmail.com (C. Xi Rui)</author>
-      <guid>https://sirichiu.github.io//categories/%E5%A4%A7%E5%AD%B8%E7%94%9F%E5%B0%88%E9%A1%8C/</guid>
+      <guid>https://sirichiu.github.io/categories/%E5%A4%A7%E5%AD%B8%E7%94%9F%E5%B0%88%E9%A1%8C/</guid>
       <description></description>
     </item>
     
