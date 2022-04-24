@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究生專題 on siriC&#39;s Blog</title>
+    <link>https://sirichiu.github.io//categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%88%E9%A1%8C/</link>
+    <description>Recent content in 研究生專題 on siriC&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sirichiu8632@gmail.com (C. Xi Rui)</managingEditor>
+    <webMaster>sirichiu8632@gmail.com (C. Xi Rui)</webMaster>
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sirichiu.github.io//categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B0%88%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projectile Vector Doppler Imaging</title>
+      <link>https://sirichiu.github.io//posts/projectile-vector-doppler-imaging/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      <author>sirichiu8632@gmail.com (C. Xi Rui)</author>
+      <guid>https://sirichiu.github.io//posts/projectile-vector-doppler-imaging/</guid>
+      <description>&lt;p&gt;動態向量都卜勒(Projectile Vector Doppler Imaging) 比傳統都卜勒影像提供更多樣的血液資訊，如流速、流動，擾流情況等，給予醫師更多診斷資訊。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
